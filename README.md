@@ -12,6 +12,7 @@
 | 2026-09-20 | [Day 03](docs/daily/2026-09-20-day03.md) - 第2章：符号主义与联结主义 |
 | 2026-09-21 | [Day 04](docs/daily/2026-09-21-day04.md) - 第3章第1节与运行Transformer代码 |
 | 2026-09-22 | [Day 05](docs/daily/2026-09-22-day05.md) - Attention 视频、Transformer.forward 与 torch.nn |
+| 2026-09-23 | [Day 06](docs/daily/2026-09-23-day06.md) - 第3章、张成空间、generate_mask 与 Tensor |
 
 ## Commit 规范
 
