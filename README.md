@@ -14,6 +14,7 @@
 | 2026-09-22 | [Day 05](docs/daily/2026-09-22-day05.md) - Attention 视频、Transformer.forward 与 torch.nn |
 | 2026-09-23 | [Day 06](docs/daily/2026-09-23-day06.md) - 第3章、张成空间、generate_mask 与 Tensor |
 | 2026-09-24 | [Day 07](docs/daily/2026-09-24-day07.md) - 编译问题、多项式 |
+| 2026-09-25 | [Day 08](docs/daily/2026-09-25-day08.md) - ReAct、Position Encoding 与线性无关 |
 
 ## Commit 规范
 
