@@ -18,6 +18,7 @@
 | 2026-09-26 | [Day 09](docs/daily/2026-09-26-day09.md) - PyTorch 基础 |
 | 2026-09-27 | [Day 10](docs/daily/2026-09-27-day10.md) - 看懂 PE 的 div_term |
 | 2026-09-28 | [Day 11](docs/daily/2026-09-28-day11.md) - Encoder 的 6 层结构，MultiHeadAttention 未读懂 |
+| 2026-09-29 | [Day 12](docs/daily/2026-09-29-day12.md) - 注意力分数、transpose 与 matmul |
 
 ## Commit 规范
 
