@@ -19,9 +19,12 @@
 | 2026-09-27 | [Day 10](docs/daily/2026-09-27-day10.md) - 看懂 PE 的 div_term |
 | 2026-09-28 | [Day 11](docs/daily/2026-09-28-day11.md) - Encoder 的 6 层结构，MultiHeadAttention 未读懂 |
 | 2026-09-29 | [Day 12](docs/daily/2026-09-29-day12.md) - 注意力分数、transpose 与 matmul |
+| 2026-09-30 | [Day 13](docs/daily/2026-09-30-day13.md) - MultiHeadAttention 的形状与 8 个头 |
 
 ## Commit 规范
 
 `dayXX | YYYY-MM-DD: 简述`
 
 示例：`day01 | 2026-09-18: 跑通 Hello-Agents 第1章 demo`
+
+过了半夜 12 点仍算前一天，日志文件名、进度表和提交说明都用前一天的日期。
