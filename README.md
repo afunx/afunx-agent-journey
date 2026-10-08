@@ -20,6 +20,7 @@
 | 2026-09-28 | [Day 11](docs/daily/2026-09-28-day11.md) - Encoder 的 6 层结构，MultiHeadAttention 未读懂 |
 | 2026-09-29 | [Day 12](docs/daily/2026-09-29-day12.md) - 注意力分数、transpose 与 matmul |
 | 2026-09-30 | [Day 13](docs/daily/2026-09-30-day13.md) - MultiHeadAttention 的形状与 8 个头 |
+| 2026-10-08 | [Day 14](docs/daily/2026-10-08-day14.md) - split_heads、combine_heads 与 view/reshape |
 
 ## Commit 规范
 
