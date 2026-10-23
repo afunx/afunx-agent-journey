@@ -21,6 +21,7 @@
 | 2026-09-29 | [Day 12](docs/daily/2026-09-29-day12.md) - 注意力分数、transpose 与 matmul |
 | 2026-09-30 | [Day 13](docs/daily/2026-09-30-day13.md) - MultiHeadAttention 的形状与 8 个头 |
 | 2026-10-08 | [Day 14](docs/daily/2026-10-08-day14.md) - split_heads、combine_heads 与 view/reshape |
+| 2026-10-23 | [Day 15](docs/daily/2026-10-23-day15.md) - 3Blue1Brown：秩、零集、逆矩阵、点积 |
 
 ## Commit 规范
 
@@ -29,3 +30,5 @@
 示例：`day01 | 2026-09-18: 跑通 Hello-Agents 第1章 demo`
 
 过了半夜 12 点仍算前一天，日志文件名、进度表和提交说明都用前一天的日期。
+
+有学就记录，不要求每天更新。
